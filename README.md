@@ -6,6 +6,7 @@ Projetos utilizando Arduino (Uno, Mega e Nano)
 - LCD 16x2 e 20x4;
 - RTC DS1307;
 - ULTRASSÔNICO SR04;
+- MAX7219;
 - OLED SD1306.
 
 INFO:
@@ -13,4 +14,4 @@ INFO:
 - Alguns códigos necessitam de bibliotecas específicas que podem ser baixadas na própria IDE (>= 1.8);
 - Os circuitos (.png/.jpg) foram realizados por terceiros, mediante fontes citadas;
 - https://rafaelbarbosa258.wixsite.com/portfoliorafael.
-- Última Atualização: 09/08/2021 - 10:52
+- Última Atualização: 22/09/2022 - 13:06
